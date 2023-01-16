@@ -1,4 +1,4 @@
-package td2
+package td5
 
 type Linkedlist struct {
 	e *Elem
